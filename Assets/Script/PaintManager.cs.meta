@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 34b4b5fd09f4cca4c844042fc630356a
+timeCreated: 1452342879
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PaintPrefab: {fileID: 131090, guid: f3b35c5aa35879743a59d155e087676b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
